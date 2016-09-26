@@ -1,0 +1,51 @@
+body {
+
+	background-color: #99ebff;
+}
+
+#banner {
+
+	background: linear-gradient(#FFFF00, #0000FF);
+}
+
+h1 {
+
+	color: #ff0066;
+	text-align: center;
+	text-shadow: 5px 5px 7px yellow;
+}
+
+h2 {
+
+	color: #000080;
+	text-align: center;
+}
+
+div {
+
+	text-align: center;
+}
+p {
+
+	text-align: center;
+}
+
+#topPicture {
+
+	border-style: groove;
+	border-color: #FF0000;
+	border-width: 5px;
+	border-radius: 5px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #0000FF;
+}
+#slideShow {
+	
+	border-style: groove;
+	border-color: #FF0000;
+	border-width: 5px;
+	border-radius: 5px;
+	padding: 20px;
+	box-shadow: 5px 5px 5px #0000FF;
+	
+}
